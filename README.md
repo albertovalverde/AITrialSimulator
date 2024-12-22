@@ -2,7 +2,6 @@
 
 Un simulador de juicios que pone a prueba a los abogados recreando todos los pasos de un juicio real en un formato de "Elige tu propia aventura". El sistema presenta varias etapas, incluyendo declaraciones iniciales, testimonios de testigos y argumentos finales, de una manera dinámica e interactiva. Al incorporar la entrada del usuario, Gemini genera escenarios judiciales realistas y se adapta a las estrategias y acciones de los abogados, proporcionando una experiencia de juicio desafiante e inmersiva donde cada decisión puede influir en el resultado.
 
-## Ejecutar el ejemplo
 ![image](https://github.com/user-attachments/assets/c519fcb9-bfc0-425b-9f99-eef6540d9388)
 
 
