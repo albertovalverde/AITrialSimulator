@@ -2,6 +2,7 @@
 
 A trial simulator that tests lawyers by recreating every step of a real trial in a "Choose Your Own Adventure" format. The system features various stages, including opening statements, witness testimonies, and closing arguments, in a dynamic and interactive way. By incorporating user input, Gemini generates realistic court scenarios and adapts to lawyers' strategies and actions, providing a challenging and immersive trial experience where every decision can influence the outcome.
 
+
 ![image](https://github.com/user-attachments/assets/c519fcb9-bfc0-425b-9f99-eef6540d9388)
 
 ### Prerequisites
