@@ -85,7 +85,5 @@ A trial simulator that tests lawyers by recreating every step of a real trial in
 
 Contributions are welcome. If you wish to contribute to the development of this project, please open an *issue* to discuss the proposal or directly submit a *pull request* with your changes.
 
-## License
 
-This project is distributed under the MIT license. You can find a copy of the license in the `LICENSE` file (if included in the repository).
 
